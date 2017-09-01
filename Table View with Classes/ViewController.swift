@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate{
 
-    var product = ["tv","radio","Mouse"]
+    var product = ["tv","radio","mouse"]
     var price = ["5000 ₺","14.99 ₺","29.99 ₺"]
     var stock = ["3","90","900"]
     var images = ["TV","radio","mouse"]
