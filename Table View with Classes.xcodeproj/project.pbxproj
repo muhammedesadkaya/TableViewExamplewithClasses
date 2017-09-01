@@ -12,6 +12,7 @@
 		20A07AEF1F59F2FB00B6FF02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20A07AED1F59F2FB00B6FF02 /* Main.storyboard */; };
 		20A07AF11F59F2FB00B6FF02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20A07AF01F59F2FB00B6FF02 /* Assets.xcassets */; };
 		20A07AF41F59F2FB00B6FF02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20A07AF21F59F2FB00B6FF02 /* LaunchScreen.storyboard */; };
+		20A07AFC1F59F67800B6FF02 /* ProductTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A07AFB1F59F67800B6FF02 /* ProductTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		20A07AF01F59F2FB00B6FF02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20A07AF31F59F2FB00B6FF02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20A07AF51F59F2FB00B6FF02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20A07AFB1F59F67800B6FF02 /* ProductTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				20A07AE91F59F2FB00B6FF02 /* AppDelegate.swift */,
 				20A07AEB1F59F2FB00B6FF02 /* ViewController.swift */,
 				20A07AED1F59F2FB00B6FF02 /* Main.storyboard */,
+				20A07AFB1F59F67800B6FF02 /* ProductTableViewCell.swift */,
 				20A07AF01F59F2FB00B6FF02 /* Assets.xcassets */,
 				20A07AF21F59F2FB00B6FF02 /* LaunchScreen.storyboard */,
 				20A07AF51F59F2FB00B6FF02 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				20A07AEC1F59F2FB00B6FF02 /* ViewController.swift in Sources */,
 				20A07AEA1F59F2FB00B6FF02 /* AppDelegate.swift in Sources */,
+				20A07AFC1F59F67800B6FF02 /* ProductTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
